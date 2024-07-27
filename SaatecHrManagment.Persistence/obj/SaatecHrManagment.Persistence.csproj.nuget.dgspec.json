@@ -1,0 +1,219 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Persistence\\SaatecHrManagment.Persistence.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Application\\SaatecHrManagment.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Application\\SaatecHrManagment.Application.csproj",
+        "projectName": "SaatecHrManagment.Application",
+        "projectPath": "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Application\\SaatecHrManagment.Application.csproj",
+        "packagesPath": "C:\\Users\\Kiu-Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kiu-Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Domain\\SaatecHrManagment.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Domain\\SaatecHrManagment.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Domain\\SaatecHrManagment.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Domain\\SaatecHrManagment.Domain.csproj",
+        "projectName": "SaatecHrManagment.Domain",
+        "projectPath": "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Domain\\SaatecHrManagment.Domain.csproj",
+        "packagesPath": "C:\\Users\\Kiu-Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kiu-Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Persistence\\SaatecHrManagment.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Persistence\\SaatecHrManagment.Persistence.csproj",
+        "projectName": "SaatecHrManagment.Persistence",
+        "projectPath": "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Persistence\\SaatecHrManagment.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Kiu-Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kiu-Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Application\\SaatecHrManagment.Application.csproj": {
+                "projectPath": "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagment.Application\\SaatecHrManagment.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Identity\Identity.csproj" />
+    <ProjectReference Include="..\SaatecHrManagement.Persistence\SaatecHrManagement.Persistence.csproj" />
+    <ProjectReference Include="..\SaatecHrManagment.Application\SaatecHrManagment.Application.csproj" />
+    <ProjectReference Include="..\SaatecHrManagment.Domain\SaatecHrManagment.Domain.csproj" />
+    <ProjectReference Include="..\SaatecHrManagment.Infrastructure\SaatecHrManagment.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

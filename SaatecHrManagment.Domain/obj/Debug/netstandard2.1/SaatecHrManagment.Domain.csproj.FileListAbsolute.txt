@@ -1,0 +1,10 @@
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Domain\bin\Debug\netstandard2.1\SaatecHrManagment.Domain.deps.json
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Domain\bin\Debug\netstandard2.1\SaatecHrManagment.Domain.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Domain\bin\Debug\netstandard2.1\SaatecHrManagment.Domain.pdb
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Domain\obj\Debug\netstandard2.1\SaatecHrManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Domain\obj\Debug\netstandard2.1\SaatecHrManagment.Domain.AssemblyInfoInputs.cache
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Domain\obj\Debug\netstandard2.1\SaatecHrManagment.Domain.AssemblyInfo.cs
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Domain\obj\Debug\netstandard2.1\SaatecHrManagment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Domain\obj\Debug\netstandard2.1\SaatecHrManagment.Domain.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Domain\obj\Debug\netstandard2.1\SaatecHrManagment.Domain.pdb
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Domain\obj\Debug\netstandard2.1\SaatecHrManagment.Domain.csproj.AssemblyReference.cache

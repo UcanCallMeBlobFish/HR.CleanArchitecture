@@ -1,0 +1,15 @@
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\bin\Debug\netcoreapp3.1\SaatecHrManagment.Persistence.deps.json
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\bin\Debug\netcoreapp3.1\SaatecHrManagment.Persistence.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\bin\Debug\netcoreapp3.1\SaatecHrManagment.Persistence.pdb
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\bin\Debug\netcoreapp3.1\SaatecHrManagment.Application.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\bin\Debug\netcoreapp3.1\SaatecHrManagment.Domain.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\bin\Debug\netcoreapp3.1\SaatecHrManagment.Application.pdb
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\bin\Debug\netcoreapp3.1\SaatecHrManagment.Domain.pdb
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\obj\Debug\netcoreapp3.1\SaatecHrManagment.Persistence.csproj.AssemblyReference.cache
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\obj\Debug\netcoreapp3.1\SaatecHrManagment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\obj\Debug\netcoreapp3.1\SaatecHrManagment.Persistence.AssemblyInfoInputs.cache
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\obj\Debug\netcoreapp3.1\SaatecHrManagment.Persistence.AssemblyInfo.cs
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\obj\Debug\netcoreapp3.1\SaatecHrManagment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\obj\Debug\netcoreapp3.1\SaatecHrManagment.Persistence.csproj.CopyComplete
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\obj\Debug\netcoreapp3.1\SaatecHrManagment.Persistence.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Persistence\obj\Debug\netcoreapp3.1\SaatecHrManagment.Persistence.pdb

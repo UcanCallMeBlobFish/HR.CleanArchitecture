@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RGJo5IwBfeR2z3EYgyMXCau+CjZH9RtgLV8fDaWz7HQ=",
+  "Source": "SaatecHRmanagment.WebApi",
+  "BasePath": "_content/SaatecHRmanagment.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

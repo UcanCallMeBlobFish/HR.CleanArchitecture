@@ -1,0 +1,13 @@
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Application\bin\Debug\netstandard2.1\SaatecHrManagment.Application.deps.json
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Application\bin\Debug\netstandard2.1\SaatecHrManagment.Application.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Application\bin\Debug\netstandard2.1\SaatecHrManagment.Application.pdb
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Application\bin\Debug\netstandard2.1\SaatecHrManagment.Domain.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Application\bin\Debug\netstandard2.1\SaatecHrManagment.Domain.pdb
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Application\obj\Debug\netstandard2.1\SaatecHrManagment.Application.csproj.AssemblyReference.cache
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Application\obj\Debug\netstandard2.1\SaatecHrManagment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Application\obj\Debug\netstandard2.1\SaatecHrManagment.Application.AssemblyInfoInputs.cache
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Application\obj\Debug\netstandard2.1\SaatecHrManagment.Application.AssemblyInfo.cs
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Application\obj\Debug\netstandard2.1\SaatecHrManagment.Application.csproj.CoreCompileInputs.cache
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Application\obj\Debug\netstandard2.1\SaatecHrManagment.Application.csproj.CopyComplete
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Application\obj\Debug\netstandard2.1\SaatecHrManagment.Application.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\SaatecHrManagment.Application\obj\Debug\netstandard2.1\SaatecHrManagment.Application.pdb
