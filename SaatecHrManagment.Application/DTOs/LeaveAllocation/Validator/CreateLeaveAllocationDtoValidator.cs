@@ -8,15 +8,25 @@ namespace SaatecHrManagment.Application.DTOs.LeaveAllocation.Validator
 {
     public class CreateLeaveAllocationDtoValidator : AbstractValidator<CreateleaveAllocationDTO>
     {
-        private readonly ILeaveAllocationRepository _leaveAllocationRepository;
+        private readonly ILeaveTypeRepository _leaveTypeRepository;
 
-        public CreateLeaveAllocationDtoValidator(ILeaveAllocationRepository leaveAllocationRepository)
+        public CreateLeaveAllocationDtoValidator(ILeaveTypeRepository leaveTypeRepository)
         {
-            _leaveAllocationRepository = leaveAllocationRepository;
-            
-             Include(new ILeaveAllocationDtoValidator(_leaveAllocationRepository));
+            _leaveTypeRepository = leaveTypeRepository;
 
 
+            RuleFor(p => p.LeaveTypeId)
+                .GreaterThan(0)
+                .MustAsync(async (id, token) =>
+                {
+                    var leaveTypeExists = await _leaveTypeRepository.Get(id);
+
+                    return leaveTypeExists != null;
+                })
+                .WithMessage("{PropertyName} does not exist.");
         }
+
+
     }
-}
+    }
+

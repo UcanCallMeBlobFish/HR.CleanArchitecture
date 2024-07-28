@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JV7nVqcp7WjS5VZyyOHh5omv9TmFMLSo5cSrffUuWr3753OZHfqW41kp8W+k/m4iwwVwsG5MhGF1ibf6FgWp4g==",
+  "dgSpecHash": "uLNHlMmEV8udlw3zwcer5lU/HXdBgjIcptV1GmASf028gvmoBiQa7ySgOSpgeYzvJzbR64/RYwOkoEvayYg5lw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kiu-Student\\Desktop\\hr\\SaatecHrManagment\\SaatecHrManagement.Persistence\\SaatecHrManagement.Persistence.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,8 @@
     "C:\\Users\\Kiu-Student\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\Kiu-Student\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Kiu-Student\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Kiu-Student\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Kiu-Student\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\Kiu-Student\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Kiu-Student\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Kiu-Student\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

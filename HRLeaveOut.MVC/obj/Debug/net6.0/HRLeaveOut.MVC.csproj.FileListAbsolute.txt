@@ -223,3 +223,13 @@ C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\HRLeaveOut.MVC\bin\Debug\net6.
 C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\HRLeaveOut.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\HRLeaveOut.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\HRLeaveOut.MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\HRLeaveOut.MVC\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\HRLeaveOut.MVC\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\HRLeaveOut.MVC\bin\Debug\net6.0\MediatR.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\HRLeaveOut.MVC\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\HRLeaveOut.MVC\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\HRLeaveOut.MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\HRLeaveOut.MVC\bin\Debug\net6.0\SaatecHrManagment.Application.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\HRLeaveOut.MVC\bin\Debug\net6.0\SaatecHrManagment.Domain.dll
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\HRLeaveOut.MVC\bin\Debug\net6.0\SaatecHrManagment.Application.pdb
+C:\Users\Kiu-Student\Desktop\hr\SaatecHrManagment\HRLeaveOut.MVC\bin\Debug\net6.0\SaatecHrManagment.Domain.pdb

@@ -16,6 +16,20 @@ namespace SaatecHrManagement.Persistence.Repositories
             _context = context;
         }
 
+        public async Task AddAllocations(List<LeaveAllocation> allocations)
+        {
+            await _context.AddRangeAsync(allocations);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task<bool> AllocationExists(string userId, int leaveTypeId, int period)
+        {
+            return await _context.LeaveAllocations.AnyAsync(q => q.EmployeeId == userId && q.LeaveTypeId == leaveTypeId && q.Period == period);
+        }
+
+
+
+
         public async Task<List<LeaveAllocation>> GetLeaveAllocationsWithDetails()
         {
             var items = await _context
@@ -31,6 +45,11 @@ namespace SaatecHrManagement.Persistence.Repositories
             var item = await _context.LeaveAllocations.Include(a => a.LeaveType).FirstOrDefaultAsync(a => a.Id == id);
 
             return item;
+        }
+
+        public async Task<LeaveAllocation> GetUserAllocations(string userId, int leaveTypeId)
+        {
+            return await _context.LeaveAllocations.FirstOrDefaultAsync(a => a.EmployeeId == userId && a.LeaveTypeId == leaveTypeId);
         }
     }
 }

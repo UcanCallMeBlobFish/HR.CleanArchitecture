@@ -6,11 +6,9 @@ using System.Text;
 
 namespace SaatecHrManagment.Application.DTOs.LeaveAllocation
 {
-    public class CreateleaveAllocationDTO : ILeaveAllocationDTO
+    public class CreateleaveAllocationDTO 
     {
-        public int NumberOfDays { get; set; }
         public int LeaveTypeId { get; set; }
-        public int Period { get; set; }
     }
 }
 

@@ -9,9 +9,13 @@ namespace HRLeaveOut.MVC.Controllers
     public class LeaveTypesController : Controller
     {
         private readonly ILeaveTypeService _leaveTypeService;
-        public LeaveTypesController(ILeaveTypeService leaveTypeService)
+        private readonly ILeaveAllocationService _leaveAllocationService;
+
+        public LeaveTypesController(ILeaveTypeService leaveTypeService, ILeaveAllocationService leaveAllocationService)
         {
             _leaveTypeService = leaveTypeService;
+            _leaveAllocationService = leaveAllocationService;
+
         }
         // GET: LeaveTypesController
         public async Task<ActionResult> Index()
@@ -109,6 +113,27 @@ namespace HRLeaveOut.MVC.Controllers
             }
 
             return View();
+        }
+
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<ActionResult> Allocate(int id)
+        {
+            try
+            {
+                var response = await _leaveAllocationService.CreateLeaveAllocations(id);
+                if (true)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("", ex.Message);
+            }
+
+            return BadRequest();
         }
 
     }
